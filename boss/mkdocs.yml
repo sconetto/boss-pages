@@ -6,7 +6,7 @@ site_url: https://sconetto.me/boss-pages/
 # Repository
 repo_url: https://github.com/sconetto/boss-pages
 repo_name: "sconetto/boss-pages"
-edit_uri: edit/main/docs/
+edit_uri: edit/main/boss/docs/
 
 # Copyright
 copyright: "Copyright &copy; 2020 - João Pedro Sconetto"
