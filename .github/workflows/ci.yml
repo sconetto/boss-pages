@@ -13,5 +13,4 @@ jobs:
           python-version: 3.8
       - run: pip install pipenv
       - run: pipenv install --dev
-      - run: cd boss
-      - run: mkdocs gh-deploy --force
+      - run: cd boss && pipenv run mkdocs gh-deploy --force
