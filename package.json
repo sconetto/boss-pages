@@ -1,0 +1,29 @@
+{
+  "name": "boss",
+  "version": "0.0.1",
+  "description": "Organization BOSS - Big Open Source Sister Documentation",
+  "main": "boss/mkdocs.yml",
+  "dependencies": {},
+  "devDependencies": {
+    "standard-version": "^9.0.0"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sconetto/BOSS-BigOpenSourceSister.github.io.git"
+  },
+  "keywords": [
+    "docs",
+    "microservices",
+    "article"
+  ],
+  "author": "João Pedro Sconetto",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sconetto/BOSS-BigOpenSourceSister.github.io/issues"
+  },
+  "homepage": "https://github.com/sconetto/BOSS-BigOpenSourceSister.github.io#README.md"
+}
