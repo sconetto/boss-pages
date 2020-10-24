@@ -1,0 +1,77 @@
+# Project Information
+site_name: Big Open Source Sister
+site_description: GitHub Pages para a organização BOSS
+site_url: https://BOSS-BigOpenSourceSister.github.io/
+
+# Repository
+repo_url: https://github.com/sconetto/BOSS-BigOpenSourceSister.github.io
+repo_name: "BOSS-BigOpenSourceSister"
+edit_uri: edit/main/docs/
+
+# Copyright
+copyright: "Copyright &copy; 2020 - João Pedro Sconetto"
+
+# Configuration
+theme:
+  name: "material"
+  language: "pt"
+  icon:
+    logo: fontawesome/solid/book-open
+    repo: fontawesome/brands/github
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: amber
+    text: "Fira Sans"
+    code: "Fira Mono"
+
+# Customization
+extra:
+  search:
+    language: "pt, en"
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/opensourcesis
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/open.source.sister/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCQxKAvq-QLq57dqGYI_TuFw?view_as=subscriber
+
+
+# MathJax Extension
+extra_javascript:
+  - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.0/MathJax.js?config=TeX-MML-AM_CHTML"
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - codehilite:
+      linenums: true
+  - footnotes
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - mdx_truly_sane_lists
+  - toc:
+      slugify: !!python/name:pymdownx.slugs.uslugify
+
+# Index
+nav:
+  - Home: index.md
+  - Entrevistas:
+    - Mentorias e Tech Leaders: entrevistas/mentoria-tech-leader.md
