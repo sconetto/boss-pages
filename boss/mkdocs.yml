@@ -19,7 +19,7 @@ theme:
     logo: fontawesome/solid/book-open
     repo: fontawesome/brands/github
   palette:
-    scheme: slate
+    scheme: default
     primary: deep purple
     accent: amber
     text: "Fira Sans"
