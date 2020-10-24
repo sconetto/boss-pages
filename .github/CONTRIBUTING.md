@@ -14,7 +14,7 @@ We would love for you to contribute to `Big Open Source Sister GitHub Pages` and
 
 Help us keep Big Open Source Sister GitHub Pages open and inclusive. Please read and follow our [Code of Conduct][coc].
 
-[coc]: https://github.com/sconetto/BOSS-BigOpenSourceSister.github.io/blob/main/CODE_OF_CONDUCT.md
+[coc]: https://github.com/sconetto/boss-pages/blob/main/CODE_OF_CONDUCT.md
 
 ## <a name="question"></a> Got a Question or Problem?
 
@@ -63,13 +63,13 @@ We will be insisting on a minimal reproduction scenario in order to save maintai
 
 Unfortunately, we are not able to investigate / fix bugs without a minimal reproduction, so if we don't hear back from you we are going to close an issue that doesn't have enough info to be reproduced.
 
-You can file new issues by selecting from our [new issue templates](https://github.com/sconetto/BOSS-BigOpenSourceSister.github.io/issues/new) and filling out the issue template.
+You can file new issues by selecting from our [new issue templates](https://github.com/sconetto/boss-pages/issues/new) and filling out the issue template.
 
 ### <a name="submit-pr"></a> Submitting a Pull Request (PR)
 
 Before you submit your Pull Request (PR) consider the following guidelines:
 
-1. Search [GitHub](https://github.com/sconetto/BOSS-BigOpenSourceSister.github.io/pulls) for an open or closed PR
+1. Search [GitHub](https://github.com/sconetto/boss-pages/pulls) for an open or closed PR
   that relates to your submission. You don't want to duplicate effort.
 1. Be sure that an issue describes the problem you're fixing, or documents the design for the feature you'd like to add.
   Discussing the design up front helps to ensure that we're ready to accept your work.
@@ -257,8 +257,8 @@ Signed-off-by: Miles Morales <miles@email.com>
 Co-authored-by: Perter Parker <peter@email.com>
 ```
 
-[coc]: https://github.com/sconetto/BOSS-BigOpenSourceSister.github.io/code-of-conduct/blob/main/CODE_OF_CONDUCT.md
-[dev-doc]: https://github.com/sconetto/BOSS-BigOpenSourceSister.github.io/code-of-conduct/blob/main/README.md
+[coc]: https://github.com/sconetto/boss-pages/code-of-conduct/blob/main/CODE_OF_CONDUCT.md
+[dev-doc]: https://github.com/sconetto/boss-pages/code-of-conduct/blob/main/README.md
 [commit-message-format]: https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#
 [github]: https://github.com/
 [stackoverflow]: http://stackoverflow.com/questions/tagged/

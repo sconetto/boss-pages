@@ -1,11 +1,11 @@
 # Project Information
 site_name: Big Open Source Sister
 site_description: GitHub Pages para a organização BOSS
-site_url: https://BOSS-BigOpenSourceSister.github.io/
+site_url: https://sconetto.me/boss-pages/
 
 # Repository
-repo_url: https://github.com/sconetto/BOSS-BigOpenSourceSister.github.io
-repo_name: "BOSS-BigOpenSourceSister"
+repo_url: https://github.com/sconetto/boss-pages
+repo_name: "sconetto/boss-pages"
 edit_uri: edit/main/docs/
 
 # Copyright
